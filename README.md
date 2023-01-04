@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/117843879/210458195-c1099576-e664-4f26-80fc-db7d9e0b35ca.png)
+
 Tarea 5-Capitulo 9-10
 
 Nombre: Ariel Patricio Condor Vásconez
@@ -18,7 +19,8 @@ Marco teorico
 
 Capitulo 9
 
-![image](https://user-images.githubusercontent.com/117843879/210463280-160cdf34-ecec-4f6d-aca7-2195b89003fd.png)
+![image](https://user-images.githubusercontent.com/117843879/210463583-1a2b888e-418b-4d0e-93ef-141688fbfd4f.png)
+
 
 
 Capitulo 10
